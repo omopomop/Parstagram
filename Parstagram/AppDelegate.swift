@@ -21,6 +21,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 configuration.server = "https://lit-ocean-10227.herokuapp.com/parse"
             })
         )
+        
         return true
     }
 
